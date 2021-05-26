@@ -11,3 +11,8 @@
 // Your CSS partials
 @import "components/index";
 @import "pages/index";
+
+.card-name {
+  font-weight: bold;
+  text-transform: uppercase;
+}
